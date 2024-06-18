@@ -13,12 +13,6 @@
 
 
 
-#___________________Load packages _________________________ #
-
-library(tidyverse)
-
-
-
 #___________________ Simulating data _________________________ #
 
 # First we're going to simulate data and run a regression on the data, just to get
